@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[acy:home|Door43 (acy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-acy|d43-acy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-acy/archive/master.zip|d43-acy.zip]]
+
+**Recent Changes**
+{{changes>ns = acy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/acy|Ethnologue data]]
+
